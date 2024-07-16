@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ELACROUCH Imane</h1>
-<h3 align="center">A passionate Data Science</h3>
+<h3 align="center">A passionate of Data Science</h3>
+<p align="center"> I love learning new things, especially in data science. I'm always curious and enjoy finding new solutions and insights. I like the challenges and opportunities in data science and want to keep up with the latest trends. Whether it's learning new techniques, discovering patterns in data, or using new technologies, my passion for learning keeps me excited about Being Special .</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +15,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelacrouch&label=Profile%20views&color=0e75b6&style=flat" alt="imanelacrouch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imanelacrouch" alt="imanelacrouch" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imane_acr" target="blank"><img src="https://img.shields.io/twitter/follow/imane_acr?logo=twitter&style=for-the-badge" alt="imane_acr" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanelacrouch&show_icons=true&locale=en&layout=compact" alt="imanelacrouch" /></p>
