@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ELACROUCH Imane </h1>
-<h3 align="center">A passionate Data</h3>
+<h3 align="center">Passionate about the world of data, striving to understand the dynamics of various fields.</h3>
 <p align="center">I love learning new things, especially in data science. I'm always curious and enjoy finding new solutions and insights. I like the challenges and opportunities in data science and want to keep up with the latest trends. Whether it's learning new techniques, discovering patterns in data, or using new technologies, my passion for learning keeps me excited about Being Special.</p>
 
 <h3 align="left">Connect with me:</h3>
