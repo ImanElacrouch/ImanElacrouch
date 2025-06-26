@@ -2,6 +2,7 @@
 <h3 align="center">Passionate about the world of data, striving to understand the dynamics of various fields.</h3>
 <p align="center">I love learning new things, especially in the field of data. I'm always curious and enjoy finding new solutions and insights. I like the challenges and opportunities it brings and want to stay up to date with the latest trends. Whether it's learning new techniques, discovering patterns in data, or exploring new technologies, my passion for learning keeps me excited about being special.</p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/imane_acr" target="blank">
