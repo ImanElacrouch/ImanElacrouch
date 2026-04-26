@@ -6,14 +6,13 @@ Passionate about data and AI, I enjoy building data-driven solutions, automating
 </p>
 
 ---
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://twitter.com/imane_acr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/imane-elacrouch-19bb88251/"/" target="_blank">
+  <a href="https://www.linkedin.com/in/imane-elacrouch-19bb88251/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
 </p>
