@@ -24,9 +24,19 @@ Passionate about data and AI, I enjoy building data-driven solutions, automating
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,docker,linux,redis,pytorch,tensorflow,sklearn,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
-
----
 
 <h3 align="center">GitHub Stats</h3>
 
